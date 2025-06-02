@@ -1,0 +1,40 @@
+{
+  "name": "antiguedades-sthandier",
+  "version": "1.0.0",
+  "description": "Landing page for Antigüedades Sthandier, showcasing vintage antiques and providing contact information.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "antiquities",
+    "vintage",
+    "ecommerce",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "18": "^0.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  },
+  "homepage": "https://yourusername.github.io/antiguedades-sthandier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/antiguedades-sthandier.git"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
